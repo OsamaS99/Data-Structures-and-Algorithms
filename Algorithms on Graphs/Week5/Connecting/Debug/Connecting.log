@@ -1,0 +1,6 @@
+﻿  Connecting.cpp
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Connecting\Connecting.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Connecting\Connecting.cpp(103,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Connecting\Connecting.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Connecting\Connecting.cpp(128,27): warning C4018: '<': signed/unsigned mismatch
+  Connecting.vcxproj -> C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Debug\Connecting.exe

@@ -1,0 +1,14 @@
+﻿  Dijkstra.cpp
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Dijkstra\Dijkstra.cpp(50,29): warning C4244: '=': conversion from 'double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Dijkstra\Dijkstra.cpp(90,37): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Dijkstra\Dijkstra.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Dijkstra\Dijkstra.cpp(103,27): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra.vcxproj -> C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Debug\Dijkstra.exe

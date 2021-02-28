@@ -1,0 +1,4 @@
+﻿  Parallels.cpp
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\Parallels\Parallels.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\Parallels\Parallels.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+  Parallels.vcxproj -> C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\Debug\Parallels.exe

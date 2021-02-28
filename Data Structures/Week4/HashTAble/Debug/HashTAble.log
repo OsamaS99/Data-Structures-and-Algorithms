@@ -1,0 +1,15 @@
+﻿  HashTAble.cpp
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(62,51): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(62,78): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(62,115): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(66,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(67,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(69,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(69,68): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(69,105): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(70,31): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(76,44): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(76,71): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(77,35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\HashTAble\HashTAble.cpp(78,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  HashTAble.vcxproj -> C:\Users\os133\OneDrive\Desktop\DSSolution\DSSolution\Debug\HashTAble.exe

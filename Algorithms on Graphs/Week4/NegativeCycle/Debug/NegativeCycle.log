@@ -1,0 +1,10 @@
+﻿  NegativeCycle.cpp
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\NegativeCycle\NegativeCycle.cpp(8,38): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\NegativeCycle\NegativeCycle.cpp(12,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\NegativeCycle\NegativeCycle.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\NegativeCycle\NegativeCycle.cpp(14,31): warning C4018: '<': signed/unsigned mismatch
+  NegativeCycle.vcxproj -> C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Debug\NegativeCycle.exe

@@ -1,0 +1,3 @@
+﻿  Order.cpp
+C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Order\Order.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+  Order.vcxproj -> C:\Users\os133\OneDrive\Desktop\GraphAlgoSolution\GraphAlgo\Debug\Order.exe
